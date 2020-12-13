@@ -8,11 +8,11 @@
 - [Identify Conversational AI workloads](https://azure.microsoft.com/blog/microsoft-conversational-ai-tools-enable-developers-to-build-connect-and-manage-intelligent-bots/)
 
 ## Identify guiding principles for Responsible AI
-- [Describe considerations for Fairness in an AI solution](https://www.microsoft.com/ai/responsible-ai)
-- [Describe considerations for Accountability in an AI solution](https://www.microsoft.com/ai/responsible-ai)
-- [Describe considerations for Inclusiveness in an AI solution](https://www.microsoft.com/ai/responsible-ai)
-- [Describe considerations for Reliability and Safety in an AI solution](https://www.microsoft.com/ai/responsible-ai)
-- [Describe considerations for Privacy and Security in an AI solution](https://www.microsoft.com/ai/responsible-ai)
-- [Describe considerations for Transparency in an AI solution](https://www.microsoft.com/ai/responsible-ai)
+- [Describe considerations for Fairness in an AI solution](Responsible%20AI/Fairness.md)
+- [Describe considerations for Accountability in an AI solution](Responsible%20AI/Accountability.md)
+- [Describe considerations for Inclusiveness in an AI solution](Responsible%20AI/Inclusiveness.md)
+- [Describe considerations for Reliability and Safety in an AI solution](Responsible%20AI/Reliability%20and%20Safety.md)
+- [Describe considerations for Privacy and Security in an AI solution](Responsible%20AI/Priviacy%20and%20Security.md)
+- [Describe considerations for Transparency in an AI solution](Responsible%20AI/Transparency.md)
 
 [Return to Table of Contents](README.md)

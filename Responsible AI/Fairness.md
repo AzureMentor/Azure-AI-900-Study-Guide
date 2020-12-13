@@ -8,4 +8,6 @@
 - What we see is that the assumptions and decisions made by teams at every stage of the AI development and deployment life cycle can introduce biases, and that's why this is such an important topic.
 - This isn't something that we can just delegate to one or two people and call it quits and move on, no this is something that everybody has to be thinking about really actively.
 
+[See Responsible AI at Microsoft](https://www.microsoft.com/en-ca/ai/responsible-ai)
+
 [Return to Table of Contents](../README.md)

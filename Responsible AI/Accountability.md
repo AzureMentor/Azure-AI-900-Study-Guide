@@ -8,4 +8,6 @@
 - So in moving from the facial recognition principles to practices and processes that can be followed across the company, Microsoft takes a high level principle, such as the commitment to Fairness, and think about how to have development teams view every stage of the development life-cycle with those principles.
 - Microsoft has a set of guidelines that the teams can follow and think about these considerations at every step of the life-cycle.
 
+[See Responsible AI at Microsoft](https://www.microsoft.com/en-ca/ai/responsible-ai)
+
 [Return to Table of Contents](../README.md)

@@ -8,4 +8,6 @@
 - One of the ways we approach that is to not remove the data from a customer's device, to run the models locally on the device, eliminating that potential vulnerability.
 - When we consider the security aspects of these AI systems, you have to think through where and how the data is coming from, if it's user-submitted data or a public data source that's being used in the prediction, how do you prevent that from being corrupted, having things like anomaly detection or other systems for detecting changes in the data that might indicate that there's an adversary trying to influence the results of the system.
 
+[See Responsible AI at Microsoft](https://www.microsoft.com/en-ca/ai/responsible-ai)
+
 [Return to Table of Contents](../README.md)

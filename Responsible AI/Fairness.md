@@ -7,3 +7,5 @@
 - That means that fairness in the context of AI systems is a fundamentally socio-technical challenge, this means that we've got to have a greater diversity of people developing and deploying AI systems.
 - What we see is that the assumptions and decisions made by teams at every stage of the AI development and deployment life cycle can introduce biases, and that's why this is such an important topic.
 - This isn't something that we can just delegate to one or two people and call it quits and move on, no this is something that everybody has to be thinking about really actively.
+
+[Return to Table of Contents](../README.md)

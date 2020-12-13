@@ -5,3 +5,5 @@
 - There are two sides to transparency:
     - people who create AI systems should be open about how and why they're using AI, and also open about the limitations of their systems.
     - people should be able to understand the behavior of AI systems, this is what you often hear referred to as interpretability or intelligibility.
+
+[Return to Table of Contents](../README.md)

@@ -7,3 +7,5 @@
 - While there is a lot of great uses, there are a lot of uses that could interfere with people's civil liberties or pushed aside in a direction that we're really not interested in supporting.
 - So in moving from the facial recognition principles to practices and processes that can be followed across the company, Microsoft takes a high level principle, such as the commitment to Fairness, and think about how to have development teams view every stage of the development life-cycle with those principles.
 - Microsoft has a set of guidelines that the teams can follow and think about these considerations at every step of the life-cycle.
+
+[Return to Table of Contents](../README.md)

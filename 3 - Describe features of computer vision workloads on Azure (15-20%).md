@@ -1,13 +1,13 @@
-# AI-900: Describe features of computer vision workloads on Azure (15-20%)
+# AI-900: Describe features of Computer Vision workloads on Azure (15-20%)
 
-## Identify common types of computer vision solution:
-- Identify features of image classification solutions
-- Identify features of object detection solutions
-- Identify features of semantic segmentation solutions
-- Identify features of optical character recognition solutions
-- Identify features of facial detection, facial recognition, and facial analysis solutions
+## Identify common types of Computer Vision solution:
+- Identify features of Image Classification solutions
+- Identify features of Object Detection solutions
+- Identify features of Semantic Segmentation solutions
+- Identify features of Optical Character Recognition (OCR) solutions
+- Identify features of Facial Detection, Facial Recognition, and Facial Analysis solutions
 
-## Identify Azure tools and services for computer vision tasks
+## Identify Azure tools and services for Computer Vision tasks
 - Identify capabilities of the Computer Vision service
 - Identify capabilities of the Custom Vision service
 - Identify capabilities of the Face service

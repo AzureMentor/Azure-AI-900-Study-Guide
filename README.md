@@ -14,3 +14,7 @@
 * [Microsoft Azure AI Fundamentals: Natural Language Processing](https://learn.microsoft.com/training/paths/explore-natural-language-processing/)
 * [Microsoft Azure AI Fundamentals: Document Intelligence and Knowledge Mining](https://learn.microsoft.com/training/paths/document-intelligence-knowledge-mining/)
 * [Microsoft Azure AI Fundamentals: Generative AI](https://learn.microsoft.com/training/paths/introduction-generative-ai/)
+
+## Free Practice Assessment
+
+* [AI-900 Practice Assessment](https://rebrand.ly/AI-900-Practice-Assessment)
